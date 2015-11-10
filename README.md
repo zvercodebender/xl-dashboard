@@ -1,2 +1,1 @@
-# xl-dashboard
-A Dashing Dashboard for XLR and XLD
+Check out http://shopify.github.com/dashing for more information.
