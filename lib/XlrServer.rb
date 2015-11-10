@@ -1,7 +1,7 @@
 
 class XlrServer
 
-    @@host = "epiphone"
+    @@host = "localhost"
     @@port = "5516"
     @@user = "admin"
     @@pass = "admin"
