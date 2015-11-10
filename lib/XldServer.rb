@@ -1,11 +1,9 @@
 
 class XldServer
 
-    #@@host = "stella"
-    @@host = "epiphone"
+    @@host = "localhost"
     @@port = "4516"
     @@user = "admin"
-    #@@pass = "katy4792"
     @@pass = "admin"
 
    def getHost()
